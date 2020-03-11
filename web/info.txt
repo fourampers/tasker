@@ -1,0 +1,23 @@
+
+// Auth
+    // register()
+    // login()
+    // logout()
+    // currentUser()
+    // check()
+    //ЗАДАНИЕ 1
+    // ban()
+    // unban()
+    // getUserStatus() "banned", "normal"
+    // isBanned() true
+    // isNormal() false
+    // remove()
+    // fullName()
+    // uploadAvatar()
+
+
+//ЗАДАНИЕ 2
+// ImageManager
+    // upload($image) //
+    // delete($path)
+// ...
